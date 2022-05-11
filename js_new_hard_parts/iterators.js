@@ -101,7 +101,7 @@ function nextIterator(arr) {
 //    return sum;
 // }
 
-// // Uncomment the lines below to test your work
+// Uncomment the lines below to test your work
 // const array4 = [1, 2, 3, 4];
 
 // console.log(sumArray(array4));
